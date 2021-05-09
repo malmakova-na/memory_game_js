@@ -9,3 +9,5 @@ The goal of the game is to open a field of 3 by 4 cards in 1 minute.
 1)Download it index.html, index. css, script.js to the folder. 
 2)Click on index.html. 
 Enjoy!
+### DEMO
+https://memory-game-js-zeta.vercel.app/
